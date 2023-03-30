@@ -1,0 +1,4 @@
+// 
+https://localhost/index.php/{MODULE_NAME}/{METHOD_NAME}?limit={LIMIT_VALUE} 
+http://localhost/index.php/user/list?limit=20
+http://localhost/phpApiv1/index.php/user/list?limit=3
